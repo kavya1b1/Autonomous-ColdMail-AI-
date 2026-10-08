@@ -188,7 +188,9 @@ flowchart TD
 
 ### Dashboard
 
-![Dashboard](https://drive.google.com/file/d/1Q7zI7RLfSe-HNu4eQvyvK64zjppqnZyk/view?usp=sharing)
+![Dashboard]
+<img width="1470" height="956" alt="dashboard" src="https://github.com/user-attachments/assets/cb95ebbf-8914-4420-9c28-5e7cfcd8159e" />
+
 
 ### Review & Send
 
