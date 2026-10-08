@@ -211,7 +211,11 @@ flowchart TD
 
 ### Analytics
 
-![Analytics](https://drive.google.com/file/d/1SwyPl4El-GrH0pUT2jvOs9XI7PrbcVsG/view?usp=drive_link)
+
+
+<img width="1470" height="956" alt="analytics" src="https://github.com/user-attachments/assets/ce1d5b1c-0851-4b63-ada7-0746d5e16d85" />
+
+
 
 ------------------------------------------------------------------------
 
