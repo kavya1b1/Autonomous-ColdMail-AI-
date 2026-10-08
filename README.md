@@ -203,7 +203,11 @@ flowchart TD
 
 ### Profile & Settings
 
-![Profile](https://drive.google.com/file/d/1B9lf_T8Xz-jjtvtj7qNmXgbOmmD4Gp2J/view?usp=sharing)
+
+
+<img width="1470" height="956" alt="profile-settings" src="https://github.com/user-attachments/assets/64031383-0adc-4216-9986-a03711d460cc" />
+
+
 
 ### Analytics
 
