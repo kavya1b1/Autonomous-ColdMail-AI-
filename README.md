@@ -188,13 +188,18 @@ flowchart TD
 
 ### Dashboard
 
-![Dashboard]
+
+
 <img width="1470" height="956" alt="dashboard" src="https://github.com/user-attachments/assets/cb95ebbf-8914-4420-9c28-5e7cfcd8159e" />
 
 
 ### Review & Send
 
-![Review & Send](https://drive.google.com/file/d/1uv0VbHeENtHWzsQ-I8tjLH-8Ckn7SS8X/view?usp=sharing)
+
+
+<img width="1470" height="956" alt="review-send" src="https://github.com/user-attachments/assets/4c7f21a2-f8f9-4be0-9f43-7fdd67c7e7b4" />
+
+
 
 ### Profile & Settings
 
